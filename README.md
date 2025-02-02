@@ -3,15 +3,6 @@
 
 ---
 
-## **📌 Table of Contents**
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Database Schema](#database-schema)
-- [ER Diagram](#er-diagram)
-
----
-
 ## **📌 Project Overview**
 Goodwill Industries operates multiple donation centers and retail stores. This project provides a **comprehensive database management system** to:
 - **Streamline donations, track inventory, and manage sales.**
